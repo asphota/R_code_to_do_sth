@@ -1,0 +1,69 @@
+<series>
+        <header>
+            <type>mean</type>
+            <moduleInstanceId>SWBL_MergeMAT_Forecast</moduleInstanceId>
+            <locationId>CRLI3</locationId>
+            <parameterId>MAT</parameterId>
+            <ensembleId>GEFS</ensembleId>
+            <ensembleMemberIndex>0</ensembleMemberIndex>
+            <timeStep unit="second" multiplier="21600"/>
+            <startDate date="2018-02-23" time="12:00:00"/>
+            <endDate date="2018-03-07" time="00:00:00"/>
+            <forecastDate date="2018-03-07" time="00:00:00"/>
+            <missVal>NaN</missVal>
+            <stationName>Carlisle</stationName>
+            <lat>38.9741666667</lat>
+            <lon>-87.4258333333</lon>
+            <x>-87.4258333333</x>
+            <y>38.9741666667</y>
+            <z>135.636</z>
+            <units>DEGF</units>
+        </header>
+        <event date="2018-02-23" time="12:00:00" value="47.75" flag="0"/>
+        <event date="2018-02-23" time="18:00:00" value="51.8684" flag="0"/>
+        <event date="2018-02-24" time="00:00:00" value="51.2834" flag="0"/>
+        <event date="2018-02-24" time="06:00:00" value="46.3676" flag="0"/>
+        <event date="2018-02-24" time="12:00:00" value="42.7946" flag="0"/>
+        <event date="2018-02-24" time="18:00:00" value="45.3254" flag="0"/>
+        <event date="2018-02-25" time="00:00:00" value="52.9502" flag="0"/>
+        <event date="2018-02-25" time="06:00:00" value="55.1246" flag="0"/>
+        <event date="2018-02-25" time="12:00:00" value="45.311" flag="0"/>
+        <event date="2018-02-25" time="18:00:00" value="40.2026" flag="0"/>
+        <event date="2018-02-26" time="00:00:00" value="47.0768" flag="0"/>
+        <event date="2018-02-26" time="06:00:00" value="38.0732" flag="0"/>
+        <event date="2018-02-26" time="12:00:00" value="30.7076" flag="0"/>
+        <event date="2018-02-26" time="18:00:00" value="41.5526" flag="0"/>
+        <event date="2018-02-27" time="00:00:00" value="54.266" flag="0"/>
+        <event date="2018-02-27" time="06:00:00" value="39.452" flag="0"/>
+        <event date="2018-02-27" time="12:00:00" value="33.2654" flag="0"/>
+        <event date="2018-02-27" time="18:00:00" value="47.5412" flag="0"/>
+        <event date="2018-02-28" time="00:00:00" value="60.371597" flag="0"/>
+        <event date="2018-02-28" time="06:00:00" value="52.311203" flag="0"/>
+        <event date="2018-02-28" time="12:00:00" value="48.7058" flag="0"/>
+        <event date="2018-02-28" time="18:00:00" value="50.2052" flag="0"/>
+        <event date="2018-03-01" time="00:00:00" value="54.9446" flag="0"/>
+        <event date="2018-03-01" time="06:00:00" value="54.746597" flag="0"/>
+        <event date="2018-03-01" time="12:00:00" value="55.079597" flag="0"/>
+        <event date="2018-03-01" time="18:00:00" value="52.1618" flag="0"/>
+        <event date="2018-03-02" time="00:00:00" value="45.926598" flag="0"/>
+        <event date="2018-03-02" time="06:00:00" value="39.9812" flag="0"/>
+        <event date="2018-03-02" time="12:00:00" value="33.2168" flag="0"/>
+        <event date="2018-03-02" time="18:00:00" value="37.8356" flag="0"/>
+        <event date="2018-03-03" time="00:00:00" value="47.579" flag="0"/>
+        <event date="2018-03-03" time="06:00:00" value="37.292" flag="0"/>
+        <event date="2018-03-03" time="12:00:00" value="31.5068" flag="0"/>
+        <event date="2018-03-03" time="18:00:00" value="39.5078" flag="0"/>
+        <event date="2018-03-04" time="00:00:00" value="51.1502" flag="0"/>
+        <event date="2018-03-04" time="06:00:00" value="40.992798" flag="0"/>
+        <event date="2018-03-04" time="12:00:00" value="34.0916" flag="0"/>
+        <event date="2018-03-04" time="18:00:00" value="39.7706" flag="0"/>
+        <event date="2018-03-05" time="00:00:00" value="52.2032" flag="0"/>
+        <event date="2018-03-05" time="06:00:00" value="43.012398" flag="0"/>
+        <event date="2018-03-05" time="12:00:00" value="38.206398" flag="0"/>
+        <event date="2018-03-05" time="18:00:00" value="40.1972" flag="0"/>
+        <event date="2018-03-06" time="00:00:00" value="45.593597" flag="0"/>
+        <event date="2018-03-06" time="06:00:00" value="42.1934" flag="0"/>
+        <event date="2018-03-06" time="12:00:00" value="32.801" flag="0"/>
+        <event date="2018-03-06" time="18:00:00" value="43.1312" flag="0"/>
+        <event date="2018-03-07" time="00:00:00" value="46.3838" flag="0"/>
+    </series>
