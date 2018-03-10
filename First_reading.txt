@@ -5,7 +5,7 @@
             <locationId>CRLI3</locationId>
             <parameterId>MAT</parameterId>
             <ensembleId>GEFS</ensembleId>
-            <ensembleMemberIndex>0</ensembleMemberIndex>
+            <ensembleMemberIndex>1</ensembleMemberIndex>
             <timeStep unit="second" multiplier="21600"/>
             <startDate date="2018-02-23" time="12:00:00"/>
             <endDate date="2018-03-07" time="00:00:00"/>
